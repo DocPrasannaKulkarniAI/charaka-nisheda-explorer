@@ -123,3 +123,14 @@ Clinical reflection by practitioners
 Research conceptualization and text analysis
 
 It is not intended to replace classical study or clinical judgment.
+
+
+Attribution
+
+Data compiled and App developed by
+Prof. (Dr.) Prasanna Kulkarni
+
+License
+
+For academic and educational use.
+Commercial use requires explicit permission.
